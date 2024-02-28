@@ -9,7 +9,17 @@ Pada Micro Controller biasanya:
 * Positif di tuliskan:
     
         VCC -> (Arus 5V)
-        v3v -> (Arus 3V)
+        3v3 -> (Arus 3.3V)
         VIN -> (Arus Input)
 
 * Negatif di tuliskan GND
+
+# Battery
+Merupakan salah satu seumber Arus DC
+
+# Micro Controller
+![1709096784372](image/README/1709096784372.png)
+
+![uno](image/README/uno.png)
+
+Pada kedua gambar di atas, Terlihat Penamaan pin untuk arus Positif dan Negatif.
